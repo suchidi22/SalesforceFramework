@@ -1,0 +1,14 @@
+20230220 22:40:04 INFO  [main] base.SalesForceBaseTest SalesForceBaseTest.java62 - started testscript name Addonphotolink
+20230220 22:40:05 INFO  [main] base.SalesForceBaseTest SalesForceBaseTest.java110 - going to the url=https://login.salesforce.com
+20230220 22:40:09 INFO  [main] base.SalesForceBaseTest SalesForceBaseTest.java78 - text entered in username field
+20230220 22:40:09 INFO  [main] base.SalesForceBaseTest SalesForceBaseTest.java78 - text entered in password field
+20230220 22:42:57 INFO  [main] base.SalesForceBaseTest SalesForceBaseTest.java62 - started testscript name Addonphotolink
+20230220 22:42:58 INFO  [main] base.SalesForceBaseTest SalesForceBaseTest.java110 - going to the url=https://login.salesforce.com
+20230220 22:43:02 INFO  [main] base.SalesForceBaseTest SalesForceBaseTest.java78 - text entered in username field
+20230220 22:43:02 INFO  [main] base.SalesForceBaseTest SalesForceBaseTest.java78 - text entered in password field
+20230220 22:49:12 INFO  [main] base.SalesForceBaseTest SalesForceBaseTest.java62 - started testscript name Addonphotolink
+20230220 22:49:14 INFO  [main] base.SalesForceBaseTest SalesForceBaseTest.java110 - going to the url=https://login.salesforce.com
+20230220 22:49:18 INFO  [main] base.SalesForceBaseTest SalesForceBaseTest.java78 - text entered in username field
+20230220 22:49:18 INFO  [main] base.SalesForceBaseTest SalesForceBaseTest.java78 - text entered in password field
+20230220 22:49:40 INFO  [main] base.SalesForceBaseTest SalesForceBaseTest.java62 - started testscript name ClosePopupWindow
+20230220 22:49:41 INFO  [main] base.SalesForceBaseTest SalesForceBaseTest.java110 - going to the url=https://login.salesforce.com

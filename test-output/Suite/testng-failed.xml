@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="chromeTests(failed)">
+    <parameter name="browsername" value="chrome"/>
+    <classes>
+      <class name="com.jan23.Salesforce.SalesforceAutomationTest">
+        <methods>
+          <include name="errorMessage"/>
+          <include name="loginToSalesforce"/>
+          <include name="tearDownAfterTestMethod"/>
+          <include name="OpenAccountsPage"/>
+          <include name="loginToSalesForce"/>
+          <include name="setUpBeforeTest"/>
+          <include name="tearDownAfterTest"/>
+          <include name="setUpBeforeTestMethod"/>
+          <include name="Tc09"/>
+          <include name="forgotPassword"/>
+          <include name="CreateNewAccount"/>
+          <include name="ClosePopupWindow"/>
+          <include name="Tc02"/>
+          <include name="Tc03"/>
+          <include name="postfilelinkClick"/>
+        </methods>
+      </class> <!-- com.jan23.Salesforce.SalesforceAutomationTest -->
+    </classes>
+  </test> <!-- chromeTests(failed) -->
+</suite> <!-- Failed suite [Suite] -->
